@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/marcfranciss/marcfranciss.github.io-FMC-Workit-landing-page.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://marcfranciss.github.io/FMC-Workit-landing-page]
 
 ## My process
 
